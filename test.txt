@@ -1,3 +1,5 @@
 Hi this is Mounish, I am your Devops Trainer, in the present session we are learning GIT conceptes, we are trying to undesrtand merge conecpts.
 
 We will learn some new concepts today
+
+We are learning pull,clone,fetch
