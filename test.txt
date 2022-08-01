@@ -3,3 +3,5 @@ Hi this is Mounish, I am your Devops Trainer, in the present session we are lear
 We will learn some new concepts today
 
 We are learning pull,clone,fetch
+
+We will understand stash concept
