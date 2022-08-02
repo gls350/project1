@@ -9,3 +9,5 @@ We will understand stash concept
 Understanding pull request
 
 Using ssh url to push pull changes
+
+understanding tags
