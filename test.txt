@@ -7,3 +7,5 @@ We are learning pull,clone,fetch
 We will understand stash concept
 
 Understanding pull request
+
+Using ssh url to push pull changes
